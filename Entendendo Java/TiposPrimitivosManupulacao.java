@@ -6,19 +6,19 @@ public class TiposPrimitivosManupulacao {
         /*Formas de delcarar Váriaveis*/
         /***********************************
         *
-        *1º Forma: mais conhecida.*/
+        *1º FORMA: MAIS COMUM.*/
         int idade = 3;
         float salario = 1825.54f;
         char letra = 'G';
         boolean casado = false;
 
-        /*2º forma: Typecast (Especificando tipo de valores).*/
+        /*2º FORMA: TYPECATS (Especificando tipo de valores).*/
         int idade = (int) 3;
         float salario = (float) 1825.54;
         char letra = (char) 'G';
         boolean casado = (boolean) false;   
 
-        /*3º Forma: Wrapper (Utilizando classes)*/
+        /*3º FORMA: WRAPPER (Utilizando classes)*/
         Integer idade = new Integer(3);
         Float salario = new Float(1825.54);
         Character letra = new letra('G');
