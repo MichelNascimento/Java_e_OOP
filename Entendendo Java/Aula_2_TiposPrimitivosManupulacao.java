@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class TiposPrimitivosManupulacao {
+public class Aula_2_TiposPrimitivosManupulacao {
     public static void main(String[] args) {
         /***********************************/
         /*Formas de delcarar Váriaveis*/
