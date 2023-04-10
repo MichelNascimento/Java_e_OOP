@@ -1,6 +1,6 @@
 import javax.sound.sampled.SourceDataLine;
 
-public class OperadoresLogicosRelacionais {
+public class Aula_5_OperadoresLogicosRelacionais {
     public static void main(String[] args) {
         
         int n1 = 15, n2 = 9, maior;

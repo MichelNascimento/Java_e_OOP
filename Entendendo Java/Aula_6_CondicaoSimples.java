@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class CondicaoSimples {
+public class Aula_6_CondicaoSimples {
     public static void main(String[] args) {
         Scanner teclado =new Scanner(System.in);
         System.out.println("Digit s notas: ");

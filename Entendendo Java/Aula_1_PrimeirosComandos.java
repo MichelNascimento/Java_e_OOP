@@ -5,7 +5,7 @@
  * que faz parte do pacote primeiro programa (PACKAGE)
  */
 
-public class PrimeirosComandos // Cabeçário da classe.
+public class Aula_1_PrimeirosComandos // Cabeçário da classe.
 {
     public static void main(String[] args) // Método principal
     {

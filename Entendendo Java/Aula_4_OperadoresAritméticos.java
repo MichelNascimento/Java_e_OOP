@@ -1,4 +1,4 @@
-public class OperadoresAritméticos {
+public class Aula_4_OperadoresAritméticos {
     public static void main(String[] args) {
         
         /********************/

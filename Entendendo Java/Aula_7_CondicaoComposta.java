@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class CondicaoComposta {
+public class Aula_7_CondicaoComposta {
     public static void main(String[] args) {
         Scanner teclado = new Scanner(System.in);
 

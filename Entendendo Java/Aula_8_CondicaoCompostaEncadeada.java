@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class CondicaoCompostaEncadeada {
+public class Aula_8_CondicaoCompostaEncadeada {
     public static void main(String[] args) {
         Scanner teclado = new Scanner(System.in);
 
