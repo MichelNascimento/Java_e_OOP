@@ -1,4 +1,4 @@
-package entendendo;
+package comandos;
 import java.util.Scanner;
 
 public class Aula_08_CondicaoComposta_Encadeada {

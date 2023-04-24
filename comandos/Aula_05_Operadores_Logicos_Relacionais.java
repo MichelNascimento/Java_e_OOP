@@ -1,4 +1,4 @@
-package entendendo;
+package comandos;
 
 public class Aula_05_Operadores_Logicos_Relacionais {
     public static void main(String[] args) {

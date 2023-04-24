@@ -1,4 +1,4 @@
-package entendendo;
+package comandos;
 
 public class Aula_03_TiposPrimitivos_Manipulacao {
     public static void main(String[] args) {
