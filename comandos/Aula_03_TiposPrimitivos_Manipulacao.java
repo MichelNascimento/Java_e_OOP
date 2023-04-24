@@ -1,6 +1,6 @@
-import java.util.Scanner;
+package entendendo;
 
-public class Aula_3_TiposPrimitivosManupulacao {
+public class Aula_03_TiposPrimitivos_Manipulacao {
     public static void main(String[] args) {
         /***********************************/
         /*Formas de delcarar Váriaveis*/
@@ -65,4 +65,5 @@ public class Aula_3_TiposPrimitivosManupulacao {
         int idade = valor; //INCOMPATÍVEL
         int idade = Integer.parseInt(valor); //COMPATÍVEL
     }    
+    
 }

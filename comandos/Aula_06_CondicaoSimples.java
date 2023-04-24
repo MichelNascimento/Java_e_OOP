@@ -1,6 +1,7 @@
+package entendendo;
 import java.util.Scanner;
 
-public class Aula_6_CondicaoSimples {
+public class Aula_06_CondicaoSimples {    
     public static void main(String[] args) {
         Scanner teclado =new Scanner(System.in);
         System.out.println("Digit s notas: ");
@@ -16,5 +17,6 @@ public class Aula_6_CondicaoSimples {
         if(media > 9){
             System.out.println("Parabéns");
         }  
-    }    
+    }   
+    
 }

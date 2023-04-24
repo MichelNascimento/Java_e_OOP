@@ -1,6 +1,6 @@
-import javax.sound.sampled.SourceDataLine;
+package entendendo;
 
-public class Aula_5_OperadoresLogicosRelacionais {
+public class Aula_05_Operadores_Logicos_Relacionais {
     public static void main(String[] args) {
         
         int n1 = 15, n2 = 9, maior;
@@ -60,4 +60,5 @@ public class Aula_5_OperadoresLogicosRelacionais {
         //Utilizando o método "equals" para comparar o CONTEUDO dos objetos
         resultado = (nome1.equals(nome3)) ? "igual" : "diferente";
     }    
+    
 }

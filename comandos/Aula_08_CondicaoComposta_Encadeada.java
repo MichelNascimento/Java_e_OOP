@@ -1,6 +1,7 @@
+package entendendo;
 import java.util.Scanner;
 
-public class Aula_8_CondicaoCompostaEncadeada {
+public class Aula_08_CondicaoComposta_Encadeada {
     public static void main(String[] args) {
         Scanner teclado = new Scanner(System.in);
 
@@ -20,5 +21,6 @@ public class Aula_8_CondicaoCompostaEncadeada {
         else{
             System.out.println("Sua idade é: " + calc + "\nSeu voto é ORBIGATÓRIO");
         }           
-    }    
+    }   
+    
 }

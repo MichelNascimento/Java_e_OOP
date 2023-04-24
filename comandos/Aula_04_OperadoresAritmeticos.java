@@ -1,14 +1,15 @@
-public class Aula_4_OperadoresAritméticos {
+package entendendo;
+
+public class Aula_04_OperadoresAritmeticos {
     public static void main(String[] args) {
-        
-        /********************/
+
+
         /*OPERADORES UNÁRIOS*/
         int a, b;
 
         a++; // ou a = a + 1 (INCREMENTO)
         a--; // ou a = a -1 (DECREMENTO)
 
-        /********************/
         /*OPERADORES DE ATRIBUIÇÃO*/
         a += b; // ou a = a + b (SOMAR E ATRIBUIR)
         a -= b; // ou a = a - b (SUBTRAIR E ATRIBUIR)
@@ -16,7 +17,6 @@ public class Aula_4_OperadoresAritméticos {
         a /= b; // ou a = a / b (DIVIDIR E ATRIBUIR)
         a %= b; // ou a = a % b (RETOS E ATRIBUIR)
 
-        /********************/
         /*CLASSE MATH*/
         //Constanate
         Math.PI; //= 3.1415...
@@ -30,7 +30,6 @@ public class Aula_4_OperadoresAritméticos {
         //Raz cúbica 
         Math.cbrt(b); //= 3  
 
-        /********************/
         /*ARREDONDAMENTOS*/
         //valor absoluto
         Math.abs(-10); // = 10
@@ -52,5 +51,6 @@ public class Aula_4_OperadoresAritméticos {
 
         System.out.println(n);        
     }
-    
 }
+    
+

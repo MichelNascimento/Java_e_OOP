@@ -1,6 +1,7 @@
+package entendendo;
 import java.util.Scanner;
 
-public class Aula_7_CondicaoComposta {
+public class Aula_07_CondicaoComposta {
     public static void main(String[] args) {
         Scanner teclado = new Scanner(System.in);
 
@@ -18,5 +19,6 @@ public class Aula_7_CondicaoComposta {
         else{
             System.out.println("Você é de MENOR");
         }
-    }    
+    }  
+    
 }
