@@ -1,6 +1,6 @@
 package comandos;
 
-public class Aula_03_TiposPrimitivos_Manipulacao {
+public class Aula_003_TiposPrimitivos_Manipulacao {
     public static void main(String[] args) {
         /***********************************/
         /*Formas de delcarar Váriaveis*/

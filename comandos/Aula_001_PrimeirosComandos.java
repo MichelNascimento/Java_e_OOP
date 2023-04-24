@@ -6,7 +6,7 @@ package comandos;
  * que está dentro da classe primeiro programa (CLASS);
  * que faz parte do pacote primeiro programa (PACKAGE)
  */
-public class Aula_01_PrimeirosComandos { // Cabeçário da classe.
+public class Aula_001_PrimeirosComandos { // Cabeçário da classe.
     public static void main(String[] args) { // Método principal
         System.out.println("Ola, Mundo!");
         /* "System" - Sistema

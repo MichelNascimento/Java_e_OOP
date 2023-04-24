@@ -1,7 +1,7 @@
 package comandos;
 import java.util.Scanner;
 
-public class Aula_07_CondicaoComposta {
+public class Aula_007_CondicaoComposta {
     public static void main(String[] args) {
         Scanner teclado = new Scanner(System.in);
 

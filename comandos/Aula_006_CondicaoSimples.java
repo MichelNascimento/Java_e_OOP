@@ -1,7 +1,7 @@
 package comandos;
 import java.util.Scanner;
 
-public class Aula_06_CondicaoSimples {    
+public class Aula_006_CondicaoSimples {    
     public static void main(String[] args) {
         Scanner teclado =new Scanner(System.in);
         System.out.println("Digit s notas: ");

@@ -1,6 +1,6 @@
 package comandos;
 
-public class Aula_04_OperadoresAritmeticos {
+public class Aula_004_OperadoresAritmeticos {
     public static void main(String[] args) {
 
 

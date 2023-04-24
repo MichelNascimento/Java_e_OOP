@@ -1,7 +1,7 @@
 package comandos;
 import java.util.Scanner;
 
-public class Aula_09_CondicaoMultiplas {
+public class Aula_009_CondicaoMultiplas {
     public static void main(String [] args){
     Scanner teclado = new Scanner(System.in);
     System.out.println("Quantas pernas? ");

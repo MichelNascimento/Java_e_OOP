@@ -1,7 +1,7 @@
 package comandos;
 import java.util.Scanner;
 
-public class Aula_08_CondicaoComposta_Encadeada {
+public class Aula_008_CondicaoComposta_Encadeada {
     public static void main(String[] args) {
         Scanner teclado = new Scanner(System.in);
 

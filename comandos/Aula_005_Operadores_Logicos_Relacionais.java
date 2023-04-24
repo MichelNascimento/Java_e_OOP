@@ -1,6 +1,6 @@
 package comandos;
 
-public class Aula_05_Operadores_Logicos_Relacionais {
+public class Aula_005_Operadores_Logicos_Relacionais {
     public static void main(String[] args) {
         
         int n1 = 15, n2 = 9, maior;
